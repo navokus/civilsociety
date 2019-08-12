@@ -6,7 +6,12 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 # Jekyll Defaults
 title: Artist Theme
 email: your-email@domain.com
-description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
+description: VNSEC là doanh nghiệp phi lợi nhuận, dùng lợi nhuận thu được phục vụ
+cho mục đích xã hội, như tổ chức các hoạt động xây dựng cộng đồng,
+sự kiện, hội thảo, đào tạo phổ biến kiến thức về an toàn thông tin, trao
+giải thưởng, học bổng hàng năm cho sinh viên nhằm góp phần phát
+triển và xây dựng nền an toàn, bảo mật thông tin mạnh và bền vững
+trong nước.!
 baseurl: "http://localhost:3000" # the subpath of your site, e.g. /blog
 
 # Where can people find your site?
